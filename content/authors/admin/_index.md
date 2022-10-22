@@ -3,27 +3,27 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Financial Engineering
+    institution: WorldQuant University
+    year: 2022-2024
+  - course: MSc in Operations Research and  Statistics
+    institution: National University of Science and Technology
+    year: 2015
+  - course: BSc in Mathematics 
+    institution: Midlands State University
+    year: 2010
 email: ""
-first_name: Alice
+first_name: Eddwin
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- Computational Finance
+- Machine Learning Applications
+last_name: Cheteni
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Belgium Campus ITversity NPC 1
+  url: https://www.belgiumcampus.ac.za/
+role: Data Science Lecturer
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,22 +33,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/eddychetz
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eddychetz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/eddwin-cheteni-profile
 superuser: true
-title: Alice Bighetti 吳恩達
+title: Eddwin Cheteni
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Eddwin Cheteni is a lecturer of data science at the Belgium Campus. His research interests include application of machine learning in financial markets, credit risk modeling, financial time series and network analytics. He is part of the Data Science group, which delivers an edge-cutting data science tutoring and mentoring students as well as individuals and companies assisting in implementation of data-driven systems in their business environment.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
