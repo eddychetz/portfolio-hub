@@ -26,7 +26,7 @@ feature:
     name: Applied Statistics
   - description:
     icon: python
-    icon_pack: "custom"
+    icon_pack: fab
     name: Python
   - description:  AWS Certified Cloud Practitioner
     icon: aws
@@ -41,10 +41,10 @@ feature:
     icon_pack: "custom"
     name: Github
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
+  - icon: ":smile:"
+    icon_pack: "emoji"
+    name: "Emojiness"
+    description: ""
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.

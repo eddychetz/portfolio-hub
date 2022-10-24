@@ -40,7 +40,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Analyzing
         * Modelling
         * Deploying
 
