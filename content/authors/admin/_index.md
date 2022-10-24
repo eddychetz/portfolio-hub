@@ -44,6 +44,6 @@ superuser: true
 title: Eddwin Cheteni
 ---
 
-He is currently working as a lecturer of data science at the Belgium Campus. His research interests include application of machine learning in financial markets, credit risk modeling, financial time series and network analytics. He is part of the Data Science group, which delivers an edge-cutting data science tutoring and mentoring students as well as individuals and companies assisting in implementation of data-driven systems in their business environment.
+He is currently working as a lecturer of data science at the Belgium Campus. His research interests include application of machine learning in financial markets, credit risk modeling, financial time series and data analytics. He is part of the Data Science group, which delivers an edge-cutting data science tutoring and mentoring students as well as individuals and companies assisting in implementation of data-driven systems in their business environment.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
