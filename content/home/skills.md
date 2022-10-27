@@ -76,10 +76,6 @@ feature:
     icon: googlemeet
     icon_pack: "custom"
     name: Google Meet
-  - description: 
-    icon: ibmcloud
-    icon_pack: "custom"
-    name: IBM Cloud
   - description:
     icon: aws
     icon_pack: "custom"
