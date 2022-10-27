@@ -10,8 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments'
-subtitle:
+title: '## **Accomplishments**'
+subtitle: 
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.theforage.com/achievements?ref=XQybh6hCyHHbGjjDE
+    date_end: '2022-09-23'
+    date_start: '2022-09-19'
+    description: ''
+    organization: Forage
+    organization_url: https://www.theforage.com
+    title: Data Science Virtual Experience Programme
+    url: ''
   - certificate_url: https://www.credly.com/earner/earned/badge/
     date_end: ''
     date_start: '2021-10-29'

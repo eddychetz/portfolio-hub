@@ -1,5 +1,5 @@
 ---
-bio: My research interests include machine learning explainability and robustness, financial risk modeling and time series, and data analytics.
+bio: His research interests include machine learning explainability and robustness, financial risk modeling and time series, and data analytics. [View my LinkedIn profile](https://www.linkedin.com/in/eddwin-cheteni-profile/).
 education:
   courses:
   - course: MSc in Financial Engineering

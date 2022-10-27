@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: '## **Contact**'
 subtitle:
 
 content:
@@ -35,18 +35,18 @@ content:
     country: South Africa
     country_code: ZA
   coordinates:
-    latitude: ''
-    longitude: ''
+    latitude: '-26.0944083'
+    longitude: '28.2292712'
   directions: 
   office_hours:
-    - 'Monday 08:00 to 17:00'
-    - 'Wednesday 09:00 to 14:00'
+    - 'Monday - Friday:     08:00 - 17:00'
+    - 'Saturday - Sunday:   Closed'
   appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #     link: 'https://twitter.com/Twitter'
 
 design:
   columns: '2'

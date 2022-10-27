@@ -1,3 +1,3 @@
 # ml.ai-hub-site
 
-This is my personal website (work in progress).
+This is my professional website (work in progress).

@@ -7,53 +7,95 @@ slides:
   theme: moon
 summary: An introduction to using Wowchemy's Slides feature.
 tags: []
-title: Slides
+title: slides
 ---
 
-# Performance Review
+## Performance Review
 
-[Eddie Cheteni](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[Eddie Cheteni]()\| [Presentation 2022](https://wowchemy.com/docs/content/slides/)
 
----
+------------------------------------------------------------------------
+### Mission statement
 
-## Vision
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
 
 ---
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log('hello');
+      console.log('code block');
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
 
-## Course Design
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
 
 ---
+### Vision
 
-## Teaching and Learning Strategies
+{{< spoiler text="At course level..." >}}
+```r
+Sustainable learning culture through continuous learning.
+```
+{{< /spoiler >}}
+
+{{< spoiler text="At program level..." >}}
+```r
+Allow flexibility in career trajectory.
+```
+{{< /spoiler >}}
+
+{{< spoiler text="Education connection..." >}}
+```r
+Taking the leap and networking.
+```
+{{< /spoiler >}}
+
+{{< speaker_note >}}
+#### **Continuous learning @course level:** 
+- The job landscape is highly dynamic today. 
+- Always keep an eye on the skills in high demand and the courses that people are taking to remain relevant.
+#### **Flexibility @program level:** 
+- One must always keep an open mind regarding their career plans.
+
+#### **Networking and enable students to take the leap (for connection):** 
+- It is always good to remain in touch with professional colleagues (engage with professional media sites e.g LinkedIn, competition challenges e.g. on [Kaggle](https://www.kaggle.com)).
+- a role in another team at a lower position provides the student with the chance to develop new connections or acquire new skills (Cloud Computing certification, etc).
+  {{< /speaker_note >}}
+  
+------------------------------------------------------------------------
+
+### Career Summary
+
+- my course design
+---
+
+### Skills and Abilities
 
 Inline code: `variable`
 
 Code block:
 
-```python
+``` python
 porridge = "blueberry"
 if porridge == "blueberry":
     print("Eating...")
 ```
 
----
+------------------------------------------------------------------------
 
-## Students' Assessments
+### Professional Achievements
 
 In-line math: $x + y = z$
 
@@ -63,120 +105,97 @@ $$
 f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
----
+------------------------------------------------------------------------
 
-## Academic Community Participation
+### Sample of Work
 
 Make content appear incrementally
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
+    {{%/* fragment */%}} One {{%/* /fragment */%}}
+    {{%/* fragment */%}} **Two** {{%/* /fragment */%}}
+    {{%/* fragment */%}} Three {{%/* /fragment */%}}
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{% fragment %}} One {{% /fragment %}} {{% fragment %}} **Two** {{% /fragment %}} {{% fragment %}} Three {{% /fragment %}}
+
+------------------------------------------------------------------------
+
+### Licences and Certifications
+
+- AWS Certified Cloud Practitioner
+
+- Python {{< icon name="python" pack="fab" >}} 
+
+- R {{< icon name="r-project" pack="fab" >}}
 
 ---
 
-## Self Evaluation
+### Referrals and Testimonials
 
-In-line math: $x + y = z$
+------------------------------------------------------------------------
 
-Block math:
+### Future Plans
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+#### Short-term goals
 
----
+-   To gain a new skills.
+-   To boost my networking abilities.
+-   Blog posting.
 
-## Future Plans
-
-### Short-term goals
-
-- To gain a new skill.
-- To boost my networking abilities.
-- Blog posting.
 {{< speaker_note >}}
 - To boost my networking abilities in the Data Science space.
 - Geo-spatial and Network analysis for Business Analytics using R.
 - Create blog posts on how to use R in solving business problems as this will benefit students as well as other individuals and companies. 
   {{< /speaker_note >}}
-  
----
-## Future Plans
 
-### Long-term goals
+---
+
+#### Long-term goals
 
 - Earn a $2^{nd}$ Masters Degree.
 - Become an expert in Data Science.
+
 ---
-## Future Plans
 
-### Performance review goals
+#### Performance review goals
 
-- Productivity goals
-- Problem-solving goals
-- Documentation goals
+-   Productivity goals
+-   Problem-solving goals
+-   Documentation goals
 
 {{< speaker_note >}}
 Use the power of R: 
 - to increase enrollment using network analysis,
 - to increase student engagement in learning hands-on,
-- to prepare self-evaluation report on monthly basis,
+- to prepare timely progress reports,
   {{< /speaker_note >}}
-  
+
 ---
 A fragment can accept two optional parameters:
 
 - `class`: use a custom style (requires definition in custom CSS)
 - `weight`: sets the order in which a fragment appears
-
 ---
 
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
-
----
+------------------------------------------------------------------------
 
 ## Themes
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+-   black: Black background, white text, blue links (default)
+-   white: White background, black text, blue links
+-   league: Gray background, white text, blue links
+-   beige: Beige background, dark text, brown links
+-   sky: Blue background, thin dark text, blue links
 
----
+------------------------------------------------------------------------
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+-   night: Black background, thick white text, orange links
+-   serif: Cappuccino background, gray text, brown links
+-   simple: White background, black text, blue links
+-   solarized: Cream-colored background, dark green text, blue links
 
----
+------------------------------------------------------------------------
 
 {{< slide background-image="/media/boards.jpg" >}}
 
@@ -184,13 +203,13 @@ Press the `S` key to view the speaker notes!
 
 Customize the slide style and background
 
-```markdown
+``` markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
 
----
+------------------------------------------------------------------------
 
 ## Custom CSS Example
 
@@ -198,7 +217,7 @@ Let's make headers navy colored.
 
 Create `assets/css/reveal_custom.css` with:
 
-```css
+``` css
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
@@ -206,7 +225,7 @@ Create `assets/css/reveal_custom.css` with:
 }
 ```
 
----
+------------------------------------------------------------------------
 
 # Questions?
 
@@ -214,4 +233,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Documentation](https://wowchemy.com/docs/content/slides/)
 
-[END](/#about/)
+[End presentation](/#about/)

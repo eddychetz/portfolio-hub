@@ -13,7 +13,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Portfolio
     url: '#portfolio'
     weight: 40
   - name: Publications
