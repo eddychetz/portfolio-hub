@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include machine learning explainability and robustness, financial risk modeling and time series, and data analytics.
 education:
   courses:
   - course: MSc in Financial Engineering
@@ -17,8 +16,12 @@ first_name: Eddwin
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Finance
-- Machine Learning Applications
+- Financial Time Series
+- Geo-Spatial Analytics 
+- Network Analytics
+- Machine Learning
+- Credit Risk Modeling
+
 last_name: Cheteni
 organizations:
 - name: Belgium Campus ITversity NPC 1

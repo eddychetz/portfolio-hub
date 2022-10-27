@@ -4,19 +4,19 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
   highlight_style: dracula
-  theme: black
+  theme: moon
 summary: An introduction to using Wowchemy's Slides feature.
 tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Wowchemy
+# Performance Review
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[Eddie Cheteni](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
 
 ---
 
-## Features
+## Vision
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
@@ -25,7 +25,7 @@ title: Slides
 
 ---
 
-## Controls
+## Course Design
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
@@ -39,7 +39,7 @@ title: Slides
 
 ---
 
-## Code Highlighting
+## Teaching and Learning Strategies
 
 Inline code: `variable`
 
@@ -53,7 +53,7 @@ if porridge == "blueberry":
 
 ---
 
-## Math
+## Students' Assessments
 
 In-line math: $x + y = z$
 
@@ -65,7 +65,7 @@ $$
 
 ---
 
-## Fragments
+## Academic Community Participation
 
 Make content appear incrementally
 
@@ -83,6 +83,55 @@ Press `Space` to play!
 
 ---
 
+## Self Evaluation
+
+In-line math: $x + y = z$
+
+Block math:
+
+$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$
+
+---
+
+## Future Plans
+
+### Short-term goals
+
+- To gain a new skill.
+- To boost my networking abilities.
+- Blog posting.
+{{< speaker_note >}}
+- To boost my networking abilities in the Data Science space.
+- Geo-spatial and Network analysis for Business Analytics using R.
+- Create blog posts on how to use R in solving business problems as this will benefit students as well as other individuals and companies. 
+  {{< /speaker_note >}}
+  
+---
+## Future Plans
+
+### Long-term goals
+
+- Earn a $2^{nd}$ Masters Degree.
+- Become an expert in Data Science.
+---
+## Future Plans
+
+### Performance review goals
+
+- Productivity goals
+- Problem-solving goals
+- Documentation goals
+
+{{< speaker_note >}}
+Use the power of R: 
+- to increase enrollment using network analysis,
+- to increase student engagement in learning hands-on,
+- to prepare self-evaluation report on monthly basis,
+  {{< /speaker_note >}}
+  
+---
 A fragment can accept two optional parameters:
 
 - `class`: use a custom style (requires definition in custom CSS)
@@ -164,3 +213,5 @@ Create `assets/css/reveal_custom.css` with:
 [Ask](https://discord.gg/z8wNYzb)
 
 [Documentation](https://wowchemy.com/docs/content/slides/)
+
+[END](/#about/)
