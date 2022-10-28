@@ -72,6 +72,6 @@ For other tips, such as using math, see the guide on [writing content with Acade
 jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 ```
 
-## Example
-
+##
 This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+ Example
