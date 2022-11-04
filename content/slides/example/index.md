@@ -12,15 +12,15 @@ title: slides
 
 ## Performance Review
 
-[Eddie Cheteni]()\| [Presentation 2022](https://wowchemy.com/docs/content/slides/)
-
-------------------------------------------------------------------------
-### Mission statement
-
-- hello mission
-
+[Eddie Cheteni](/#about/)\| [Presentation 2022](https://wowchemy.com/docs/content/slides/)
 
 ---
+### Mission statement
+
+- To raise the next generation of young data practitioners in the country
+- To spread the possibilities of **`Machine Learning`** to as much people as possible.
+---
+
 ### Vision
 
 {{< spoiler text="At course level..." >}}
@@ -42,75 +42,112 @@ Taking the leap and networking.
 {{< /spoiler >}}
 
 {{< speaker_note >}}
-#### **Continuous learning @course level:** 
-- The job landscape is highly dynamic today. 
-- Always keep an eye on the skills in high demand and the courses that people are taking to remain relevant.
-#### **Flexibility @program level:** 
-- One must always keep an open mind regarding their career plans.
 
-#### **Networking and enable students to take the leap (for connection):** 
-- It is always good to remain in touch with professional colleagues (engage with professional media sites e.g LinkedIn, competition challenges e.g. on [Kaggle](https://www.kaggle.com)).
-- a role in another team at a lower position provides the student with the chance to develop new connections or acquire new skills (Cloud Computing certification, etc).
-  {{< /speaker_note >}}
-  
-------------------------------------------------------------------------
+#### **Continuous learning \@course level:**
 
-### Career Summary
+-   The job landscape is highly dynamic today.
+-   Always keep an eye on the skills in high demand and the courses that people are taking to remain relevant.
 
-- my course design
----
+#### **Flexibility \@program level:**
 
-### Skills and Abilities
+-   One must always keep an open mind regarding their career plans.
 
-Inline code: `variable`
+#### **Networking and enable students to take the leap (for connection):**
 
-Code block:
-
-``` python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+-   It is always good to remain in touch with professional colleagues (engage with professional media sites e.g LinkedIn, competition challenges e.g. on [Kaggle](https://www.kaggle.com)).
+-   a role in another team at a lower position provides the student with the chance to develop new connections or acquire new skills (Cloud Computing certification, etc). {{< /speaker_note >}}
 
 ------------------------------------------------------------------------
 
-### Professional Achievements
+### Lecture Prep and Innovation
+
+-   These preparations are done in advance, before the respective week or course begins.
+    -   Creating lesson plans - MAT161,
+    -   Verifying if slides and lesson plans have the same information - MAT161,
+    -   Creating tests - ACW1781(ST), MAT161(CT2),
+
+------------------------------------------------------------------------
+
+### Student Satisfaction
+
+-   Use of `Reflect` tab from `Teams` to gather students' reviews. *![Reflect](images/reflection.png)*
+
+------------------------------------------------------------------------
+
+### Graduant Success Rate
 
 In-line math: $x + y = z$
 
-Block math:
+------------------------------------------------------------------------
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+### Research on Future Curricula
+
+-   Improve ways of teaching Machine Learning 381 and 382,
+
+{{% fragment %}} 381 {{% /fragment %}} {{% fragment %}} **382** {{% /fragment %}}
 
 ------------------------------------------------------------------------
 
-### Sample of Work
+### Faculty Staff Development
 
-Make content appear incrementally
+-   Better ways of communicating with students as a **Team** through short demo videos. [View here\>\>\>](https://belgiumcampusacza-my.sharepoint.com/:v:/g/personal/cheteni_e_belgiumcampus_ac_za/EZnOLIrSkPlJqtsqg_0UUAoBAX3d_jS5ML7jt9uxhfhI2A) ![](images/posting.png)
 
-    {{%/* fragment */%}} One {{%/* /fragment */%}}
-    {{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-    {{%/* fragment */%}} Three {{%/* /fragment */%}}
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}} {{% fragment %}} **Two** {{% /fragment %}} {{% fragment %}} Three {{% /fragment %}}
+-   Organizing marks for students' assessments using `VLOOKUP` through short demo videos. [View here\>\>\>](https://belgiumcampusacza-my.sharepoint.com/:v:/g/personal/cheteni_e_belgiumcampus_ac_za/Eau1zFZpO4NNursd5E3h8EgBA9dr2vMHR0MaERRY_L219w?e=genbFH)
 
 ------------------------------------------------------------------------
 
-### Licences and Certifications
+### AIT Supervision
 
-- AWS Certified Cloud Practitioner
+-   Info sessions conducted twice every year.![](images/ait-1.png)
+-   Follow Up on students without submitting and others without internship for updates.![](images/follow-up.png)
 
-- Python {{< icon name="python" pack="fab" >}} 
+------------------------------------------------------------------------
 
-- R {{< icon name="r-project" pack="fab" >}}
+### Research Participation
 
----
+-   Research about relevant topics to include in ACW1781 Summative Test.
 
-### Referrals and Testimonials
+------------------------------------------------------------------------
+
+### Moderation Management
+
+> Moderates assessments;
+
+-   Tests
+-   Exams
+
+> Moderates students' exams scripts;
+
+-   Quarter 1: ST
+-   Quarter 2: STA2781, LPR181, COA181,
+-   Quarter 3: MAT281
+
+------------------------------------------------------------------------
+
+### Deadline Adherance
+
+-   Meeting deadlines (submitting marks a week after an assessment is written)
+-   Few hurdles as the assessments are done on AQ that delays the submission.![](images/deadlines.png)
+
+------------------------------------------------------------------------
+
+### Class Management and Preps
+
+-   Sitting arrangement, students to sit closer to front for improved concentration.
+-   Making sure venue is accessible in time (5-10mins before).
+
+------------------------------------------------------------------------
+
+### Subject File Updates
+
+-   Updating slides,
+-   Making sure assignments are up to date,
+
+------------------------------------------------------------------------
+
+### Extra Curricular Engagement
+
+-   Not yet.
 
 ------------------------------------------------------------------------
 
@@ -128,14 +165,14 @@ Press `Space` to play!
 - Create blog posts on how to use R in solving business problems as this will benefit students as well as other individuals and companies. 
   {{< /speaker_note >}}
 
----
+------------------------------------------------------------------------
 
 #### Long-term goals
 
-- Earn a $2^{nd}$ Masters Degree.
-- Become an expert in Data Science.
+-   Earn a $2^{nd}$ Masters Degree.
+-   Become an expert in Data Science.
 
----
+------------------------------------------------------------------------
 
 #### Performance review goals
 
@@ -157,59 +194,12 @@ A fragment can accept two optional parameters:
 - `weight`: sets the order in which a fragment appears
 ---
 
-------------------------------------------------------------------------
-
-## Themes
-
--   black: Black background, white text, blue links (default)
--   white: White background, black text, blue links
--   league: Gray background, white text, blue links
--   beige: Beige background, dark text, brown links
--   sky: Blue background, thin dark text, blue links
-
-------------------------------------------------------------------------
-
--   night: Black background, thick white text, orange links
--   serif: Cappuccino background, gray text, brown links
--   simple: White background, black text, blue links
--   solarized: Cream-colored background, dark green text, blue links
-
-------------------------------------------------------------------------
-
 {{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-``` markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
-------------------------------------------------------------------------
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-``` css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
 
 ------------------------------------------------------------------------
 
 # Questions?
 
 [Ask](https://discord.gg/z8wNYzb)
-
-[Documentation](https://wowchemy.com/docs/content/slides/)
 
 [End presentation](/#about/)
