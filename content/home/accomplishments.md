@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.theforage.com/achievements?ref=XQybh6hCyHHbGjjDE
+  - certificate_url: https://www.linkedin.com/posts/activity-6979081483911094273-Sh3W?utm_source=share&utm_medium=member_desktop
     date_end: '2022-09-23'
     date_start: '2022-09-19'
     description: ''
@@ -39,13 +39,13 @@ item:
     organization_url: https://www.credly.com/org/amazon-web-services
     title: AWS Certified Cloud Practitioner
     url: ''
-  - certificate_url: https://www.credly.com/earner/earned/badge/
-    date_end: ''
-    date_start: '2021-06-21'
-    description: 'Used data science methodologies to define and formulate a real-world business problem, use data analysis tools to ingest a dataset, clean it and wrangle it, use data visualization skills to visualize the data and extract meaningful patterns to guide the modelling process, and use machine learning skills to build a predictive model to help a business function more efficiently.'
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Data Science and Machine Learning Capstone Project
+  - certificate_url: 
+    date_end: '2022-08-24'
+    date_start: '2022-08-22'
+    description: 'Discovered the fundamentals of continuous improvement method through use of DMAIC framework.'
+    organization: MF OPEX
+    organization_url: https://www.mftreinamentos.com/white-belt
+    title: Lean Six Sigma White Belt
     url: 
   - certificate_url: https://credentials.edx.org/credentials/7f5f67250cdc4d2da9d0e41c1326032b/
     date_end: ''

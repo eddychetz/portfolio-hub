@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: '## **Experience**'
+title: '**Experience**'
 subtitle:
 
 # Date format for experience
@@ -25,24 +25,19 @@ experience:
   - title: Lecturer of Data Science
     company: Belgium Campus ITversity NPC 1
     company_url: 'https://www.belgiumcampus.ac.za/'
-    company_logo: org-x
+    company_logo: 
     location: South Africa
     date_start: '2018-06-04'
     date_end: ''
-    description: Taught machine learning, research methods, linear programming and applied mathematics and statistics.
-  - title: Data Scientist
-    company: Codekit Express
+    description: Teaches machine learning, research methods, academic writing, business management, linear programming, calculus and applied statistics.
+  - title: Mathematics Teacher
+    company: Chaplin High School
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Zimbabwe
-    date_start: '2016-01-02'
+    date_start: '2011-01-11'
     date_end: '2018-03-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Analyzing
-        * Modelling
-        * Deploying
+    description: Teaching mathematics and computer applications, planning and participation in curriculum development.
 
 design:
   columns: '2'

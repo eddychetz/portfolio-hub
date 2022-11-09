@@ -3,198 +3,279 @@ authors: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
-  highlight_style: dracula
   theme: moon
+  highlight_style: github-light
 summary: An introduction to using Wowchemy's Slides feature.
 tags: []
-title: slides
+title: presentation
 ---
 
 ## Performance Review
 
 [Eddie Cheteni](/#about/)\| [Presentation 2022](https://wowchemy.com/docs/content/slides/)
 
----
-### Mission statement
+------------------------------------------------------------------------
 
-- To raise the next generation of young data practitioners in the country
-- To spread the possibilities of **`Machine Learning`** to as much people as possible.
----
+### Outline
 
-### Vision
+{{< spoiler text=":one: Improve student learning experience." >}}
+    :arrow_right: Lecture preparation and innovation,
 
-{{< spoiler text="At course level..." >}}
-```r
-Sustainable learning culture through continuous learning.
-```
+    :arrow_right: Student/lecturer evaluation.
 {{< /spoiler >}}
 
-{{< spoiler text="At program level..." >}}
-```r
-Allow flexibility in career trajectory.
-```
+{{< spoiler text=":two: Continuous curricula development." >}}
+    :arrow_right: Lecture preparation and innovation.
+
+    :arrow_right: Student/lecturer evaluation.
+    
 {{< /spoiler >}}
 
-{{< spoiler text="Education connection..." >}}
-```r
-Taking the leap and networking.
-```
+{{< spoiler text=":three: Faculty staff development." >}}
+    :arrow_right: Academic development, :arrow_right: Professional development and, 
+    :arrow_right: Skills development.
 {{< /spoiler >}}
 
-{{< speaker_note >}}
+{{< spoiler text=":four: Increase faculty research and innovation." >}}
+    :arrow_right: AIT supervision.
+{{< /spoiler >}}
 
-#### **Continuous learning \@course level:**
-
--   The job landscape is highly dynamic today.
--   Always keep an eye on the skills in high demand and the courses that people are taking to remain relevant.
-
-#### **Flexibility \@program level:**
-
--   One must always keep an open mind regarding their career plans.
-
-#### **Networking and enable students to take the leap (for connection):**
-
--   It is always good to remain in touch with professional colleagues (engage with professional media sites e.g LinkedIn, competition challenges e.g. on [Kaggle](https://www.kaggle.com)).
--   a role in another team at a lower position provides the student with the chance to develop new connections or acquire new skills (Cloud Computing certification, etc). {{< /speaker_note >}}
+{{< spoiler text=":five: Faculty quality assurance." >}}
+    :arrow_forward: Moderation management, :arrow_forward: Deadline adherance, 
+    :arrow_forward: Class management and preparation, :arrow_forward: Subject file updates,
+    :arrow_forward: Extra-curricular engagement.
+{{< /spoiler >}}
 
 ------------------------------------------------------------------------
 
-### Lecture Prep and Innovation
-
--   These preparations are done in advance, before the respective week or course begins.
-    -   Creating lesson plans - MAT161,
-    -   Verifying if slides and lesson plans have the same information - MAT161,
-    -   Creating tests - ACW1781(ST), MAT161(CT2),
+# :one: Improve Student Learning Experience 
 
 ------------------------------------------------------------------------
 
-### Student Satisfaction
+## Lecture Preparation & Innovation
 
--   Use of `Reflect` tab from `Teams` to gather students' reviews. *![Reflect](images/reflection.png)*
+>:arrow_forward: Preparations are done in advance, before the respective week or course begins. 
 
-------------------------------------------------------------------------
-
-### Graduant Success Rate
-
-In-line math: $x + y = z$
+![MAT161](images/mat161prep.png)
 
 ------------------------------------------------------------------------
 
-### Research on Future Curricula
+## Lecture Preparation & Innovation
 
--   Improve ways of teaching Machine Learning 381 and 382,
+>:arrow_forward: Prepared lesson plan. 
 
-{{% fragment %}} 381 {{% /fragment %}} {{% fragment %}} **382** {{% /fragment %}}
-
-------------------------------------------------------------------------
-
-### Faculty Staff Development
-
--   Better ways of communicating with students as a **Team** through short demo videos. [View here\>\>\>](https://belgiumcampusacza-my.sharepoint.com/:v:/g/personal/cheteni_e_belgiumcampus_ac_za/EZnOLIrSkPlJqtsqg_0UUAoBAX3d_jS5ML7jt9uxhfhI2A) ![](images/posting.png)
-
--   Organizing marks for students' assessments using `VLOOKUP` through short demo videos. [View here\>\>\>](https://belgiumcampusacza-my.sharepoint.com/:v:/g/personal/cheteni_e_belgiumcampus_ac_za/Eau1zFZpO4NNursd5E3h8EgBA9dr2vMHR0MaERRY_L219w?e=genbFH)
+![MAT161](images/lessonplan.png)
 
 ------------------------------------------------------------------------
 
-### AIT Supervision
+## Lecture Preparation & Innovation
 
--   Info sessions conducted twice every year.![](images/ait-1.png)
--   Follow Up on students without submitting and others without internship for updates.![](images/follow-up.png)
+>:arrow_forward: Tests Preparations
 
-------------------------------------------------------------------------
-
-### Research Participation
-
--   Research about relevant topics to include in ACW1781 Summative Test.
+![](images/acw-st.png)
 
 ------------------------------------------------------------------------
 
-### Moderation Management
+## Lecture Preparation & Innovation
 
-> Moderates assessments;
+>:arrow_forward: Use of [**Flipgrid**](https://admin.flipgrid.com/manage/topics/33143996) for students to peer review each other's research assignments.
 
--   Tests
--   Exams
-
-> Moderates students' exams scripts;
-
--   Quarter 1: ST
--   Quarter 2: STA2781, LPR181, COA181,
--   Quarter 3: MAT281
+![](images/flipgrid.png)
 
 ------------------------------------------------------------------------
 
-### Deadline Adherance
+## Student Satisfaction
 
--   Meeting deadlines (submitting marks a week after an assessment is written)
--   Few hurdles as the assessments are done on AQ that delays the submission.![](images/deadlines.png)
+>:arrow_forward:  Use of **Reflect** tab from **Teams** to gather students' reviews. 
 
-------------------------------------------------------------------------
-
-### Class Management and Preps
-
--   Sitting arrangement, students to sit closer to front for improved concentration.
--   Making sure venue is accessible in time (5-10mins before).
+![Reflect](images/reflection.png)
 
 ------------------------------------------------------------------------
 
-### Subject File Updates
+## Graduant Success Rate
 
--   Updating slides,
--   Making sure assignments are up to date,
-
-------------------------------------------------------------------------
-
-### Extra Curricular Engagement
-
--   Not yet.
+:arrow_forward: One of my students based Kempton Park Campus graduated this year 2022. ![students graduating](images/grad.png)
 
 ------------------------------------------------------------------------
 
-### Future Plans
-
-#### Short-term goals
-
--   To gain a new skills.
--   To boost my networking abilities.
--   Blog posting.
-
-{{< speaker_note >}}
-- To boost my networking abilities in the Data Science space.
-- Geo-spatial and Network analysis for Business Analytics using R.
-- Create blog posts on how to use R in solving business problems as this will benefit students as well as other individuals and companies. 
-  {{< /speaker_note >}}
+# :two: Continuous Curricula Development
 
 ------------------------------------------------------------------------
 
-#### Long-term goals
+## Research of Future Curricula
 
--   Earn a $2^{nd}$ Masters Degree.
--   Become an expert in Data Science.
+>:arrow_forward: Project-based learning to improve ways of teaching machine learning.
+
+![Cookbook in R for ML](images/mlcookbook.png) {height=100%}
 
 ------------------------------------------------------------------------
 
-#### Performance review goals
+## Continuous Contribution to Module Development
 
--   Productivity goals
--   Problem-solving goals
--   Documentation goals
+>:arrow_forward: Making sure that order of topics are well-organised for better teaching and improved student understanding 
 
-{{< speaker_note >}}
-Use the power of R: 
-- to increase enrollment using network analysis,
-- to increase student engagement in learning hands-on,
-- to prepare timely progress reports,
-  {{< /speaker_note >}}
+![](images/moduledev.png)
 
----
-A fragment can accept two optional parameters:
+------------------------------------------------------------------------
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
----
+# :three: Faculty Staff Development
 
-{{< slide background-image="/media/boards.jpg" >}}
+------------------------------------------------------------------------
+
+## Faculty Staff Development 
+
+
+> :white_check_mark: Assisted cluster chairs with better ways to disseminate info. to students.
+
+![](images/posting.png)
+
+------------------------------------------------------------------------
+
+## Faculty Staff Development
+
+> :white_check_mark: Demostration to colleagues.
+{{< video src="videos/posting.mp4" controls="yes" >}}
+
+------------------------------------------------------------------------
+
+## Academic Development
+
+> :white_medium_small_square: [MScFE - WorldQuant University](https://learn.wqu.edu/my-path)
+
+![](images/trans.png)
+
+------------------------------------------------------------------------
+
+## Academic Development
+
+> :white_medium_small_square: [ADSL - WorldQuant University](https://learn.wqu.edu/my-path)
+
+![](images/adsl.png)
+
+------------------------------------------------------------------------
+
+## Professional Development
+
+> :white_check_mark: AWS Certified Cloud Practitioner
+
+![AWS Cloud Practitioner](images/aws-certified-cloud-practitioner.png)
+
+------------------------------------------------------------------------
+
+## Skills Development
+
+> :white_check_mark: [Data Science Virtual Programme](https://www.linkedin.com/in/eddwin-cheteni-profile/recent-activity/)
+
+![](images/stdbank.png)
+------------------------------------------------------------------------
+
+## Skills Development
+
+> ![](images/6sigma.png)
+------------------------------------------------------------------------
+
+## Teaching Portfolio
+
+> :white_check_mark: Created a website to facet all the information about my teaching career journey [work in progress](/#portfolio/)
+
+------------------------------------------------------------------------
+
+# :four: Increase Faculty Research and Innovation 
+
+------------------------------------------------------------------------
+
+## AIT Supervision
+
+> :white_check_mark:  Info sessions conducted at least twice each year.
+
+![](images/ait-1.png)
+
+------------------------------------------------------------------------
+
+## AIT Supervision
+
+> :white_check_mark:  Follow Up on students with no submission and others without internship for updates.
+
+![](images/follow-up.png)
+
+------------------------------------------------------------------------
+
+# :five: Faculty Quality Assurance 
+
+------------------------------------------------------------------------
+
+## Moderation Management
+
+> :white_check_mark: Moderation of Examinations and Assessments
+
+![Exams](images/moderateexam.png)
+
+------------------------------------------------------------------------
+
+## Moderation Management
+
+> :white_check_mark: Moderation of Students' Examination Scripts.
+
+![Exams](images/moderateexam2.png)
+
+------------------------------------------------------------------------
+
+## Deadline Adherance
+
+> :white_check_mark: Meeting deadlines (submitting marks a week after an assessment is written)
+
+> :warning: Few hurdles as the assessments are done on AQ that delays the submission.
+
+![](images/deadlines.png)
+
+------------------------------------------------------------------------
+
+## Class Management and Preps
+
+:white_check_mark: Sitting arrangement, students to sit closer to front row for improved concentration.
+
+:white_check_mark: Making sure venue is accessible in time (5-10mins before).
+
+:white_check_mark: Good aeration in the room for F2F students.
+
+------------------------------------------------------------------------
+
+## Extra Curricular Engagement
+
+> :white_check_mark: Part-time classes.
+
+![](images/parttime.png)
+
+------------------------------------------------------------------------
+
+## Extra Curricular Engagement
+
+> :white_check_mark: Winter school classes. 
+{{< youtube YEjaUhsAyjo >}}
+
+------------------------------------------------------------------------
+
+## Extra Curricular Engagement
+
+> :white_check_mark: Bridging course classes.
+
+![](images/bridge.png)
+
+------------------------------------------------------------------------
+
+## Future Plans
+
+## Next Academic Year Goals
+
+:one:  Productivity goals
+:white_check_mark: to increase enrollment using customer(student) analytics,
+
+:two: Problem-solving goals
+:white_check_mark: to increase student engagement in learning hands-on,
+:white_check_mark: Blog posting and free virtual training workshops.
+
+:three: Reporting goals
+:white_check_mark: to prepare timely progress reports,
 
 ------------------------------------------------------------------------
 
@@ -202,4 +283,4 @@ A fragment can accept two optional parameters:
 
 [Ask](https://discord.gg/z8wNYzb)
 
-[End presentation](/#about/)
+[Click to end session](/#about/)

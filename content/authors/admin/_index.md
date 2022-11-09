@@ -19,6 +19,7 @@ interests:
 - Financial Time Series
 - Geo-Spatial Analytics 
 - Network Analytics
+- Text Analysis for Business Analytics
 - Machine Learning
 - Credit Risk Modeling
 
@@ -47,6 +48,8 @@ superuser: true
 title: Eddwin Cheteni
 ---
 
-He is currently working as a lecturer of data science at the Belgium Campus. His research interests include application of machine learning in financial markets, credit risk modeling, financial time series and data analytics. He is part of the Data Science group, which delivers an edge-cutting data science tutoring and mentoring students as well as individuals and companies assisting in implementation of data-driven systems in their business environment.
+I am a **Data Science** lecturer at the Belgium Campus where my teaching and learning methods are centered on bringing data science learning enjoyable to students, now and the future generation, with a particular emphasis on how people learn and share knowledge in higher education organizations.
+
+My research interests include application of machine learning in financial markets, credit risk modeling, financial time series and data analytics. As part of the Data Science team, I help in delivering a cutting-edge data science tutoring and mentoring to students, individuals and organizations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
