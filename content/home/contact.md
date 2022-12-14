@@ -42,7 +42,7 @@ content:
   office_hours:
     - 'Monday - Friday:     08:00 - 17:00'
     - 'Saturday - Sunday:   Closed'
-  appointment_url: 'https://calendly.com'
+  #appointment_url: 'https://calendly.com'
   # contact_links:
   #   - icon: twitter
   #     icon_pack: fab
