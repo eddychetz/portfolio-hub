@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86/public_url
+  - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86
     date_end: '2022-12-14'
     date_start: '2022-05-25'
-    description: 'In each project, they accessed data from files, SQL and NoSQL databases and APIs. They have demonstrated their ability to explore and clean data, create functions and ETL pipelines to prepare training sets. They have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.'
+    description: ' __Project-based learning:__ In each project, have accessed data from files, __SQL__ and __NoSQL__ databases and __APIs__. Have demonstrated my ability to explore and clean data, create functions and __ETL__ pipelines to prepare training sets. Have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.'
     organization: WorldQuant University
-    organization_url: https://www.wqu.edu/
+    organization_url: https://wqu.edu/
     title: Applied Data Science Lab
     url: ''
   - certificate_url: https://www.linkedin.com/posts/activity-6979081483911094273-Sh3W?utm_source=share&utm_medium=member_desktop
