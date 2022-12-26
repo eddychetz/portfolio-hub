@@ -58,7 +58,7 @@ item:
   - certificate_url: https://credentials.edx.org/credentials/7f5f67250cdc4d2da9d0e41c1326032b/
     date_end: ''
     date_start: '2021-10-29'
-    description: 'As part of the [certificate program](https://credentials.edx.org/records/programs/shared/50722efe172b421e9861ae988cccb365), my project focused on [Predictive Modeling](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e53b8ee4-2579-4e03-9b38-68ccd904eca5/view?access_token=652093a202e949990f54246be1e54ec6618d6766f1797f2a710cfc1d79e98703) of complaint type in the Department of Housing Preservation and Development of New York City.'
+    description: 'In this [certificate program](https://credentials.edx.org/records/programs/shared/50722efe172b421e9861ae988cccb365), my project focused on [Predictive Modeling](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e53b8ee4-2579-4e03-9b38-68ccd904eca5/view?access_token=652093a202e949990f54246be1e54ec6618d6766f1797f2a710cfc1d79e98703) of complaint type in the Department of Housing Preservation and Development of New York City.'
     organization: edX
     organization_url: https://www.edx.org
     title: IBM Data Science Professional Certificate
@@ -66,7 +66,7 @@ item:
   - certificate_url: https://credentials.edx.org/credentials/eb0e0fa2e435408dbc6a2c9c01e66ba7/
     date_end: ''
     date_start: '2021-10-29'
-    description: 'As part of the [certificate program](https://credentials.edx.org/records/programs/shared/97ab3cbde0804cf3a92909a8619bcd2b), the first project focused on the use of machine learning to create a [Movie Recommendation System](https://github.com/eddychetz/movielens_project_capstone) for Movielens dataset, and the other was [Titanic-Machine Learning for Disaster](https://github.com/eddychetz/Titanic---Machine-Learning-from-Disaster).'
+    description: 'In this [certificate program](https://credentials.edx.org/records/programs/shared/97ab3cbde0804cf3a92909a8619bcd2b), the first project focused on the use of machine learning to create a [Movie Recommendation System](https://github.com/eddychetz/movielens_project_capstone) for Movielens dataset, and the other was [Titanic-Machine Learning for Disaster](https://github.com/eddychetz/Titanic---Machine-Learning-from-Disaster).'
     organization: edX
     organization_url: https://www.edx.org
     title: Data Science Professional Certificate
