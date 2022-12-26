@@ -1,5 +1,5 @@
 ---
-bio: His research interests include machine learning explainability and robustness, financial risk modeling and time series, and data analytics. [View my LinkedIn profile](https://www.linkedin.com/in/eddwin-cheteni-profile/).
+bio: His research interests include machine learning explainability and robustness, financial risk modeling and time series, and data analytics (marketing). [View my LinkedIn profile](https://www.linkedin.com/in/eddwin-cheteni-profile/).
 education:
   courses:
   - course: MSc in Financial Engineering
@@ -50,6 +50,6 @@ title: Eddwin Cheteni
 
 I am a **Data Science** lecturer at the Belgium Campus where my teaching and learning methods are centered on bringing data science learning enjoyable to students, now and the future generation, with a particular emphasis on how people learn and share knowledge in higher education organizations.
 
-My research interests include application of machine learning in financial markets, credit risk modeling, financial time series and data analytics. As part of the Data Science team, I help in delivering a cutting-edge data science tutoring and mentoring to students, individuals and organizations.
+My research interests include application of machine learning in financial markets, credit risk modeling, financial time series and data analytics (marketing). As part of the Data Science team, I help in delivering a cutting-edge data science tutoring and mentoring to individuals, and providing consultations to business organizations with actionable insights for to meet their strategic goals.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

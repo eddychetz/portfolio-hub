@@ -28,20 +28,20 @@ content:
   # Contact details (edit or remove options as required)
   email: eddychetz@gmail.com
   phone: +27 67 972 2872
-  address:
-    street: 4B Greyilla Avenue
-    city: Kempton Park
-    region: Gauteng
-    postcode: '1619'
-    country: South Africa
-    country_code: ZA
-  coordinates:
-    latitude: '-26.0944083'
-    longitude: '28.2292712'
-  directions: 
+  # address:
+  #   street: 4B Greyilla Avenue
+  #   city: Kempton Park
+  #   region: Gauteng
+  #   postcode: '1619'
+  #   country: South Africa
+  #   country_code: ZA
+  # coordinates:
+  #   latitude: '-26.0944083'
+  #   longitude: '28.2292712'
+  # directions: 
   office_hours:
     - 'Monday - Friday:     08:00 - 17:00'
-    - 'Saturday - Sunday:   Closed'
+    - 'Saturday - Sunday:   09:00 - 14:00'
   #appointment_url: 'https://calendly.com'
   # contact_links:
   #   - icon: twitter
