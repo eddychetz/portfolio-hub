@@ -35,10 +35,17 @@ experience:
     company_url: ''
     company_logo: 
     location: Zimbabwe
-    date_start: '2011-01-11'
+    date_start: '2016-05-10'
     date_end: '2018-03-01'
-    description: Teaching mathematics and computer applications, planning and participation in curriculum development.
-
+    description: Teaching mathematics up to advance level, planning, class management and participation in curriculum development.
+  - title: Mathematics Teacher
+    company: Tongogara High School
+    company_url: ''
+    company_logo: 
+    location: Zimbabwe
+    date_start: '2011-01-11'
+    date_end: '2016-03-01'
+    description: Teaching mathematics and computer applications, planning, class management and participation in curriculum development.
 design:
   columns: '2'
 ---
