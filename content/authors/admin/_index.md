@@ -27,7 +27,7 @@ last_name: Cheteni
 organizations:
 - name: Belgium Campus ITversity NPC 1
   url: https://www.belgiumcampus.ac.za/
-role: Data Science Lecturer
+role: Senior Data Science Lecturer
 social:
 - icon: envelope
   icon_pack: fas
