@@ -79,12 +79,6 @@ item:
     organization_url: https://www.edx.org
     title: Data Analyst Professional Certificate
     url: ''
-  - certificate_url: https://www.credly.com/badges/284a9c5f-e41f-4a4a-95b5-332e9ac70325/public_url
-    date_end: ''
-    date_start: '2023-04-01'
-    description: 'Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.'
-    organization: Microsoft
-    title: Microsoft Certified: Azure Data Fundamentals
 design:
   columns: '2'
 ---
