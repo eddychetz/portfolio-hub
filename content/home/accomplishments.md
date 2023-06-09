@@ -23,13 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.credly.com/badges/284a9c5f-e41f-4a4a-95b5-332e9ac70325/public_url
-    date_end: ''
-    date_start: '2023-04-01'
-    description: 'Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.'
-    organization: Microsoft
-    organization_url: 
-    title: Microsoft Certified: Azure Data Fundamentals
   - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86
     date_end: '2022-12-14'
     date_start: '2022-05-25'
