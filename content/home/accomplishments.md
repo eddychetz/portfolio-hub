@@ -31,14 +31,16 @@ item:
     organization_url: https://learn.microsoft.com/certifications/azure-ai-fundamentals/
     title: Microsoft Certified: Azure AI Fundamentals
     url: ''
+    
   - certificate_url: https://www.credly.com/earner/earned/share/a0cebef1-8514-4b4b-8fc5-93088302b60a
     date_end: ''
     date_start: '2023-04-01'
     description: ''
     organization: Microsoft
     organization_url: https://learn.microsoft.com/certifications/azure-data-fundamentals/
-    title: Microsoft Certified: Azure AI Fundamentals
+    title: Microsoft Certified: Azure Data Fundamentals
     url: ''
+    
   - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86
     date_end: '2022-12-14'
     date_start: '2022-05-25'
@@ -47,6 +49,7 @@ item:
     organization_url: https://wqu.edu/
     title: Applied Data Science Lab
     url: ''
+    
   - certificate_url: https://www.linkedin.com/posts/activity-6979081483911094273-Sh3W?utm_source=share&utm_medium=member_desktop
     date_end: '2022-09-23'
     date_start: '2022-09-19'
@@ -55,6 +58,7 @@ item:
     organization_url: https://www.theforage.com
     title: Data Science Virtual Experience Programme
     url: ''
+    
   - certificate_url: https://www.credly.com/earner/earned/badge/
     date_end: ''
     date_start: '2021-10-29'
@@ -63,6 +67,7 @@ item:
     organization_url: https://www.credly.com/org/amazon-web-services
     title: AWS Certified Cloud Practitioner
     url: ''
+    
   - certificate_url: 
     date_end: '2022-08-24'
     date_start: '2022-08-22'
@@ -71,6 +76,7 @@ item:
     organization_url: https://www.mftreinamentos.com/white-belt
     title: Lean Six Sigma White Belt
     url: ''
+    
   - certificate_url: https://credentials.edx.org/credentials/7f5f67250cdc4d2da9d0e41c1326032b/
     date_end: ''
     date_start: '2021-10-29'
@@ -79,6 +85,7 @@ item:
     organization_url: https://www.edx.org
     title: IBM Data Science Professional Certificate
     url: ''
+    
   - certificate_url: https://credentials.edx.org/credentials/eb0e0fa2e435408dbc6a2c9c01e66ba7/
     date_end: ''
     date_start: '2021-10-29'
@@ -87,6 +94,7 @@ item:
     organization_url: https://www.edx.org
     title: Data Science Professional Certificate
     url: ''
+    
   - certificate_url: https://credentials.edx.org/credentials/ce5b1fb413a04571bb9c91e42f4113ea/
     date_end: ''
     date_start: '2021-07-21'
