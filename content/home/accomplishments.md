@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.credly.com/earner/earned/share/284a9c5f-e41f-4a4a-95b5-332e9ac70325
+    date_end: ''
+    date_start: '2023-04-05'
+    description: ''
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/certifications/azure-ai-fundamentals/
+    title: Microsoft Certified: Azure AI Fundamentals
+    url: ''
+  - certificate_url: https://www.credly.com/earner/earned/share/a0cebef1-8514-4b4b-8fc5-93088302b60a
+    date_end: ''
+    date_start: '2023-04-01'
+    description: ''
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/certifications/azure-data-fundamentals/
+    title: Microsoft Certified: Azure AI Fundamentals
+    url: ''
   - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86
     date_end: '2022-12-14'
     date_start: '2022-05-25'
