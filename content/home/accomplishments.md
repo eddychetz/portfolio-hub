@@ -84,7 +84,6 @@ item:
     date_start: '2023-04-01'
     description: 'Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.'
     organization: Microsoft
-    organization_url: 
     title: Microsoft Certified: Azure Data Fundamentals
 design:
   columns: '2'
