@@ -31,7 +31,6 @@ item:
     organization_url: https://learn.microsoft.com/certifications/azure-ai-fundamentals/
     title: Microsoft Certified: Azure AI Fundamentals
     url: ''
-    
   - certificate_url: https://www.credly.com/earner/earned/share/a0cebef1-8514-4b4b-8fc5-93088302b60a
     date_end: ''
     date_start: '2023-04-01'
@@ -40,7 +39,6 @@ item:
     organization_url: https://learn.microsoft.com/certifications/azure-data-fundamentals/
     title: Microsoft Certified: Azure Data Fundamentals
     url: ''
-    
   - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86
     date_end: '2022-12-14'
     date_start: '2022-05-25'
@@ -49,7 +47,6 @@ item:
     organization_url: https://wqu.edu/
     title: Applied Data Science Lab
     url: ''
-    
   - certificate_url: https://www.linkedin.com/posts/activity-6979081483911094273-Sh3W?utm_source=share&utm_medium=member_desktop
     date_end: '2022-09-23'
     date_start: '2022-09-19'
@@ -58,7 +55,6 @@ item:
     organization_url: https://www.theforage.com
     title: Data Science Virtual Experience Programme
     url: ''
-    
   - certificate_url: https://www.credly.com/earner/earned/badge/
     date_end: ''
     date_start: '2021-10-29'
@@ -67,7 +63,6 @@ item:
     organization_url: https://www.credly.com/org/amazon-web-services
     title: AWS Certified Cloud Practitioner
     url: ''
-    
   - certificate_url: 
     date_end: '2022-08-24'
     date_start: '2022-08-22'
