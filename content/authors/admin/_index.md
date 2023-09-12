@@ -1,28 +1,27 @@
 ---
-bio: His research interests include machine learning scalability, generalization and explainability, financial risk modeling and time series, and data analytics (marketing). [View my LinkedIn profile](https://www.linkedin.com/in/eddwin-cheteni-profile/).
+title: "Eddwin Cheteni"
 education:
   courses:
   - course: MSc in Financial Engineering
-    institution: WorldQuant University (USA-Online)
-    year: 2022-2024
+    institution: "WorldQuant University (USA-Online)"
+    year: "2022-2024"
   - course: MSc in Operations Research and  Statistics
     institution: National University of Science and Technology (ZW)
     year: 2015
-  - course: BSc in Mathematics 
+  - course: BSc in Mathematics
     institution: Midlands State University (ZW)
     year: 2010
-email: "eddychetz@gmail.com"
+email: eddychetz@gmail.com
 first_name: Eddwin
-highlight_name: true
+highlight_name: yes
 interests:
 - Artificial Intelligence
 - Financial Time Series
-- Geo-Spatial Analytics 
+- "Geo-Spatial Analytics"
 - Network Analytics
 - Text Analysis for Business Analytics
 - Machine Learning Applications
 - Credit Risk Modeling
-
 last_name: Cheteni
 organizations:
 - name: Belgium Campus ITversity NPC 1
@@ -33,7 +32,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
@@ -43,9 +42,11 @@ social:
   link: https://github.com/eddychetz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/eddwin-cheteni-profile/
-superuser: true
-title: Eddwin Cheteni
+  link: "https://www.linkedin.com/in/eddwin-cheteni-profile/"
+superuser: yes
+bio: "His research interests include machine learning scalability, generalization
+  and explainability, financial risk modeling and time series, and data analytics
+  (marketing). [View my LinkedIn profile](https://www.linkedin.com/in/eddwin-cheteni-profile/)."
 ---
 
 I am a **Data Science** lecturer at the Belgium Campus where my teaching and learning methods are centered on bringing data science learning enjoyable to students, now and the future generation, with a particular emphasis on how people learn and share knowledge in higher education organizations.
