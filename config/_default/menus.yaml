@@ -20,7 +20,7 @@ main:
     url: '#accomplishments'
     weight: 50
   - name: Projects
-    url: '#projects'
+    url: 'https://itvantage-research-consortium.netlify.app'
     weight: 60
   - name: Contact
     url: '#contact'
