@@ -17,11 +17,10 @@ highlight_name: yes
 interests:
 - Artificial Intelligence
 - Financial Time Series
-- "Geo-Spatial Analytics"
+- Geo-Spatial Analytics
 - Network Analytics
 - Text Analysis for Business Analytics
 - Machine Learning Applications
-- Credit Risk Modeling
 last_name: Cheteni
 organizations:
 - name: Belgium Campus ITversity NPC 1
