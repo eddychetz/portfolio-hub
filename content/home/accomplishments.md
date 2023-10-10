@@ -23,6 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/eddwincheteni-3552/49A4BDC32EA9AE10?sharingId=6F9A2B3F72C172C6
+    date_end: ''
+    date_start: '2023-08-16'
+    description: 'Skills: Design and prepare a machine learning solution. Explore data and train models. Prepare a model for deployment. Deploy and retrain a model.'
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/
+    title: Azure Data Scientist Associate
+    url: ''
+  - certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/eddwincheteni-3552/F085D9994009BE91?sharingId=6F9A2B3F72C172C6
+    date_end: ''
+    date_start: '2023-07-25'
+    description: 'Skills: Prepare the data. Model the data. Visualize and analyze the data. Deploy and maintain assets.'
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/
+    title: Power BI Data Analyst Associate
+    url: ''
+  - certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/eddwincheteni-3552/F2F5909A3AD32FC9?sharingId=6F9A2B3F72C172C6
+    date_end: ''
+    date_start: '2023-04-05'
+    description: 'Skills: Describe Artificial Intelligence workloads and considerations. Describe fundamental principles of machine learning on Azure. Describe features of computer vision workloads on Azure. Describe features of Natural Language Processing (NLP) workloads on Azure.'
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/
+    title: Azure AI Fundamentals
+    url: ''
+  - certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/eddwincheteni-3552/70F44CD02DD2581A?sharingId=6F9A2B3F72C172C6
+    date_end: ''
+    date_start: '2023-04-01'
+    description: 'Skills: Describe core data concepts. Identify considerations for relational data on Azure. Describe considerations for working with non-relational data on Azure. Describe an analytics workload on Azure.'
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/
+    title: Azure Data Fundamentals
+    url: ''
   - certificate_url: https://www.credly.com/badges/a5dbd36d-214e-4e46-a706-4ad0e443ca86
     date_end: '2022-12-14'
     date_start: '2022-05-25'
