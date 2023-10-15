@@ -106,7 +106,7 @@ title: presentation
 
 >:arrow_forward: Project-based learning to improve ways of teaching machine learning.
 
-![Cookbook in R for ML](images/mlcookbook23.png) {height=100%}
+![Cookbook in R for ML](images/mlcookbook23.png) {height=75%}
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ title: presentation
 
 ## DST Supervision
 
-> :white_check_mark:  Communicatio with students checking their progress and providing feedback.
+> :white_check_mark:  Communication with students checking their progress and providing feedback.
 
 ![](images/dst481-2.png)
 
