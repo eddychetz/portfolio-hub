@@ -12,7 +12,7 @@ title: presentation
 
 ## Performance Review
 
-[Eddie Cheteni](/#about/)\| [Presentation 2022](https://wowchemy.com/docs/content/slides/)
+[Eddie Cheteni](/#about/)\| [Presentation 2023](https://wowchemy.com/docs/content/slides/)
 
 ------------------------------------------------------------------------
 
@@ -54,9 +54,9 @@ title: presentation
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Preparations are done in advance, before the respective week or course begins. 
+>:arrow_forward: Preparations are done in advance, before the subject or course commences. 
 
-![MAT161](images/mat161prep.png)
+![MAT161](images/mlg382prep.png)
 
 ------------------------------------------------------------------------
 
@@ -72,15 +72,15 @@ title: presentation
 
 >:arrow_forward: Tests Preparations
 
-![](images/acw-st.png)
+![](images/mlg382-st.png)
 
 ------------------------------------------------------------------------
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Use of [**Flipgrid**](https://admin.flipgrid.com/manage/topics/33143996) for students to peer review each other's research assignments.
+>:arrow_forward: Use of [**Class Notebook**] for students to engage in an active teaching and learning experience where the lecturer can trace progress in their work.
 
-![](images/flipgrid.png)
+![](images/classnotebook.png)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ title: presentation
 
 ## Graduant Success Rate
 
-:arrow_forward: One of my students based Kempton Park Campus graduated this year 2022. ![students graduating](images/grad.png)
+:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. ![students graduating](images/grad23.png)
 
 ------------------------------------------------------------------------
 
@@ -106,15 +106,15 @@ title: presentation
 
 >:arrow_forward: Project-based learning to improve ways of teaching machine learning.
 
-![Cookbook in R for ML](images/mlcookbook.png) {height=100%}
+![Cookbook in R for ML](images/mlcookbook23.png) {height=100%}
 
 ------------------------------------------------------------------------
 
 ## Continuous Contribution to Module Development
 
->:arrow_forward: Making sure that order of topics are well-organised for better teaching and improved student understanding 
+>:arrow_forward: Making sure that order of learning outcomes are well-organised for better teaching and improved student understanding 
 
-![](images/moduledev.png)
+![](images/moduledev23.png)
 
 ------------------------------------------------------------------------
 
@@ -133,45 +133,39 @@ title: presentation
 
 ## Faculty Staff Development
 
-> :white_check_mark: Demostration to colleagues.
-{{< video src="videos/posting.mp4" controls="yes" >}}
+> :white_check_mark: Assisted cluster chairs with quicker ways to clean results sheet from AssessmentQ.
 
+![](images/posting23.png)
 ------------------------------------------------------------------------
 
 ## Academic Development
 
-> :white_medium_small_square: [MScFE - WorldQuant University](https://learn.wqu.edu/my-path)
+> :white_medium_small_square: UNISA - PhD application in process.
 
-![](images/trans.png)
-
-------------------------------------------------------------------------
-
-## Academic Development
-
-> :white_medium_small_square: [ADSL - WorldQuant University](https://learn.wqu.edu/my-path)
-
-![](images/adsl.png)
+![](images/unisaPhD.png)
 
 ------------------------------------------------------------------------
 
-## Professional Development
+## Skills & Professional Development
 
-> :white_check_mark: AWS Certified Cloud Practitioner
+> :white_check_mark: Microsoft Certifications
 
-![AWS Cloud Practitioner](images/aws-certified-cloud-practitioner.png)
+![](images/microsoft.png)
+------------------------------------------------------------------------
+
+## Skills & Professional Development
+
+> :white_check_mark: Microsoft Certified: Azure Data Scientist Associate
+
+![Azure Data Scientist Associate](images/azureds.png)
 
 ------------------------------------------------------------------------
 
-## Skills Development
+## Skills & Professional Development
 
-> :white_check_mark: [Data Science Virtual Programme](https://www.linkedin.com/in/eddwin-cheteni-profile/recent-activity/)
+> :white_check_mark: Microsoft Certified: Power BI Data Analyst Associate
 
-![](images/stdbank.png)
-------------------------------------------------------------------------
-
-## Skills Development
-
-> ![](images/6sigma.png)
+![Power BI Data Analyst Associate](images/powerbi.png)
 ------------------------------------------------------------------------
 
 ## Teaching Portfolio
@@ -184,19 +178,19 @@ title: presentation
 
 ------------------------------------------------------------------------
 
-## AIT Supervision
+## DST Supervision
 
-> :white_check_mark:  Info sessions conducted at least twice each year.
+> :white_check_mark:  Teams meetings conducted at weekly and asyncronously.
 
-![](images/ait-1.png)
+![](images/dst481-3.png)
 
 ------------------------------------------------------------------------
 
-## AIT Supervision
+## DST Supervision
 
-> :white_check_mark:  Follow Up on students with no submission and others without internship for updates.
+> :white_check_mark:  Communicatio with students checking their progress and providing feedback.
 
-![](images/follow-up.png)
+![](images/dst481-2.png)
 
 ------------------------------------------------------------------------
 
