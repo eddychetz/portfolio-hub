@@ -78,7 +78,7 @@ title: presentation
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Use of [**Class Notebook**] for students to engage in an active teaching and learning experience where the lecturer can trace progress in their work.
+>:arrow_forward: Use of **Class Notebook** for students to engage in an active teaching and learning experience where the lecturer can trace progress in their work.
 
 ![](images/classnotebook.png)
 
@@ -94,7 +94,7 @@ title: presentation
 
 ## Graduant Success Rate
 
-:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. ![students graduating](images/grad23.png)
+>:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. ![students graduating](images/grad23.png)
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ title: presentation
 
 ## Continuous Contribution to Module Development
 
->:arrow_forward: Making sure that order of learning outcomes are well-organised for better teaching and improved student understanding 
+>:arrow_forward: Making sure that order of learning outcomes are well-organised for better teaching and improved student understanding.
 
 ![](images/moduledev23.png)
 
@@ -136,6 +136,7 @@ title: presentation
 > :white_check_mark: Assisted cluster chairs with quicker ways to clean results sheet from AssessmentQ.
 
 ![](images/posting23.png)
+
 ------------------------------------------------------------------------
 
 ## Academic Development
@@ -151,6 +152,7 @@ title: presentation
 > :white_check_mark: Microsoft Certifications
 
 ![](images/microsoft.png)
+
 ------------------------------------------------------------------------
 
 ## Skills & Professional Development
@@ -166,6 +168,7 @@ title: presentation
 > :white_check_mark: Microsoft Certified: Power BI Data Analyst Associate
 
 ![Power BI Data Analyst Associate](images/powerbi.png)
+
 ------------------------------------------------------------------------
 
 ## Teaching Portfolio
