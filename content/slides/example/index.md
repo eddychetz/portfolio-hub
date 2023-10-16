@@ -2,10 +2,6 @@
 authors: []
 categories: []
 date: "2019-02-05T00:00:00Z"
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    toc: true
 slides:
   theme: league
   highlight_style: github-light
