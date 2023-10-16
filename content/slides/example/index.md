@@ -2,8 +2,12 @@
 authors: []
 categories: []
 date: "2019-02-05T00:00:00Z"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    toc: true
 slides:
-  theme: moon
+  theme: league
   highlight_style: github-light
 summary: An introduction to using Wowchemy's Slides feature.
 tags: []
