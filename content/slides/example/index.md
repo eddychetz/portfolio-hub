@@ -206,7 +206,7 @@ title: presentation
 
 ## Overview
 
-:white_check_mark: In order to improve quality of assessments and results, below are suggested inputs towards cluster goals achievements.
+:white_check_mark: In order to improve quality of assessments and results, below are suggested inputs towards the achievement of cluster goals.
 
 ![](images/quality23.png)
 
@@ -250,7 +250,7 @@ title: presentation
 
 ## Subject File Updates
 
-:white_check_mark: MLG382 files updated continuously
+:white_check_mark: MLG382 files updated continuously.
 
 ![](images/updatefiles.png)
 
@@ -274,7 +274,7 @@ title: presentation
 
 ## Extra Curricular Engagement
 
-:white_check_mark: Initiated a Power BI project to generate insights from data (![Work In Progress]()).
+:white_check_mark: Initiated a Power BI project to generate insights from data - [Work In Progress](https://github.com/eddychetz/BC-Insight-Engine/blob/main/Getting%20Started.md).
 
 ![](images/bcinsights.png)
 
@@ -285,14 +285,14 @@ title: presentation
 ## Next Academic Year Goals
 
 :one:  Productivity goals
-:white_check_mark: to increase enrollment using customer (student) analytics,
+:white_check_mark: To improve students' learning experience using [learners (student) analytics](https://github.com/eddychetz/BC-Insight-Engine/blob/main/Getting%20Started.md) - (**Work In Progress**),
 
 :two: Problem-solving goals
-:white_check_mark: to increase student engagement in learning hands-on,
+:white_check_mark: To increase student engagement in learning hands-on,
 :white_check_mark: [Blog posting](https://base-blog-posts.netlify.app/posts/sales-demand-forecasting/sales-demand-forecasting) and free virtual training workshops.
 
 :three: Reporting goals
-:white_check_mark: to prepare timely progress reports,
+:white_check_mark: To prepare timely progress reports,
 
 ------------------------------------------------------------------------
 
