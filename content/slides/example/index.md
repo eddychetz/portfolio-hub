@@ -205,7 +205,7 @@ title: presentation
 
 > :white_check_mark: Moderation of Examinations and Assessments
 
-![Exams](images/moderateexam.png)
+![Exams](images/moderateexam1.png)
 
 ------------------------------------------------------------------------
 
@@ -213,7 +213,7 @@ title: presentation
 
 > :white_check_mark: Moderation of Students' Examination Scripts.
 
-![Exams](images/moderateexam2.png)
+![Exams](images/moderateexam3.png)
 
 ------------------------------------------------------------------------
 
@@ -234,6 +234,15 @@ title: presentation
 :white_check_mark: Making sure venue is accessible in time (5-10mins before).
 
 :white_check_mark: Good aeration in the room for F2F students.
+
+
+------------------------------------------------------------------------
+
+## Subject File Updates
+
+> :white_check_mark: MLG382 files updated continuously
+
+![](images/updatefiles.png)
 
 ------------------------------------------------------------------------
 
