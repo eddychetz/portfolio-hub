@@ -201,6 +201,12 @@ title: presentation
 
 ------------------------------------------------------------------------
 
+## Overview
+
+![](images/quality23.png)
+
+------------------------------------------------------------------------
+
 ## Moderation Management
 
 > :white_check_mark: Moderation of Examinations and Assessments
@@ -221,20 +227,19 @@ title: presentation
 
 > :white_check_mark: Meeting deadlines (submitting marks a week after an assessment is written)
 
-> :warning: Few hurdles as the assessments are done on AQ that delays the submission.
+> :warning: Few hurdles as the assessments are done on AQ that delays the submission. (Final assessment was written on the 27th of March and the marks were in on the 4th of April - still within the acceptable time-frame)
 
-![](images/deadlines.png)
+![](images/deadlines23.png)
 
 ------------------------------------------------------------------------
 
 ## Class Management and Preps
 
-:white_check_mark: Sitting arrangement, students to sit closer to front row for improved concentration.
+:white_check_mark: Sitting arrangement, students to sit closer to front row for improved concentration. :warning: Few challenges faced when some PCs are not working properly.
 
-:white_check_mark: Making sure venue is accessible in time (5-10mins before).
+:white_check_mark: Making sure the venue is accessible in time (5-10mins before).
 
-:white_check_mark: Good aeration in the room for F2F students.
-
+:white_check_mark: Good aeration in classroom for F2F students.
 
 ------------------------------------------------------------------------
 
@@ -250,22 +255,23 @@ title: presentation
 
 > :white_check_mark: Part-time classes.
 
-![](images/parttime.png)
+![](images/parttime23.png)
 
 ------------------------------------------------------------------------
 
 ## Extra Curricular Engagement
 
-> :white_check_mark: Winter school classes. 
-{{< youtube YEjaUhsAyjo >}}
+> :white_check_mark: Participating in BRICS Courses Standardization. 
+
+![](images/brics.png)
 
 ------------------------------------------------------------------------
 
 ## Extra Curricular Engagement
 
-> :white_check_mark: Bridging course classes.
+> :white_check_mark: Initiated a Power BI project to generate insights from data (*Work In Progress*).
 
-![](images/bridge.png)
+![](images/bcinsights.png)
 
 ------------------------------------------------------------------------
 
@@ -274,7 +280,7 @@ title: presentation
 ## Next Academic Year Goals
 
 :one:  Productivity goals
-:white_check_mark: to increase enrollment using customer(student) analytics,
+:white_check_mark: to increase enrollment using customer (student) analytics,
 
 :two: Problem-solving goals
 :white_check_mark: to increase student engagement in learning hands-on,
