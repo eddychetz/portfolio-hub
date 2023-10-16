@@ -55,7 +55,7 @@ title: presentation
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Preparations are done in advance, before the subject or course commences. 
+:arrow_forward: Preparations are done in advance, before the subject or course commences. 
 
 ![MAT161](images/mlg382prep.png)
 
@@ -63,7 +63,7 @@ title: presentation
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Prepared lesson plan. 
+:arrow_forward: Prepared lesson plan. 
 
 ![MAT161](images/lessonplan.png)
 
@@ -71,7 +71,7 @@ title: presentation
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Tests Preparations
+:arrow_forward: Tests Preparations
 
 ![](images/mlg382-st.png)
 
@@ -79,7 +79,7 @@ title: presentation
 
 ## Lecture Preparation & Innovation
 
->:arrow_forward: Use of **Class Notebook** for students to engage in an active teaching and learning experience where the lecturer can trace progress in their work.
+:arrow_forward: Use of **Class Notebook** for students to engage in an active teaching and learning experience where the lecturer can trace progress in their work.
 
 ![](images/classnotebook.png)
 
@@ -87,7 +87,7 @@ title: presentation
 
 ## Student Satisfaction
 
->:arrow_forward:  Use of **Reflect** tab from **Teams** to gather students' reviews. 
+:arrow_forward:  Use of **Reflect** tab from **Teams** to gather students' reviews. 
 
 ![Reflect](images/reflection.png)
 
@@ -95,7 +95,7 @@ title: presentation
 
 ## Graduant Success Rate
 
->:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. 
+:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. 
 
 ![students graduating](images/grad23.png) {height=50%}
 
@@ -107,7 +107,7 @@ title: presentation
 
 ## Research of Future Curricula
 
->:arrow_forward: Project-based learning to improve ways of teaching machine learning.
+:arrow_forward: Project-based learning to improve ways of teaching machine learning.
 
 ![Cookbook in R for ML](images/mlcookbook23.png) {height=75%}
 
@@ -115,7 +115,7 @@ title: presentation
 
 ## Continuous Contribution to Module Development
 
->:arrow_forward: Making sure that order of learning outcomes are well-organised for better teaching and improved student understanding.
+:arrow_forward: Making sure that order of learning outcomes are well-organised for better teaching and improved student understanding.
 
 ![](images/moduledev23.png)
 
@@ -128,7 +128,7 @@ title: presentation
 ## Faculty Staff Development 
 
 
-> :white_check_mark: Assisted cluster chairs with better ways to disseminate info. to students.
+:white_check_mark: Assisted cluster chairs with better ways to disseminate info. to students.
 
 ![](images/posting.png)
 
@@ -136,7 +136,7 @@ title: presentation
 
 ## Faculty Staff Development
 
-> :white_check_mark: Assisted cluster chairs with quicker ways to clean results sheet from AssessmentQ.
+:white_check_mark: Assisted cluster chairs with quicker ways to clean results sheet from AssessmentQ.
 
 ![](images/posting23.png)
 
@@ -144,7 +144,7 @@ title: presentation
 
 ## Academic Development
 
-> :white_medium_small_square: UNISA - PhD application in process.
+:white_medium_small_square: UNISA - PhD application in process.
 
 ![](images/unisaPhD.png)
 
@@ -152,7 +152,7 @@ title: presentation
 
 ## Skills & Professional Development
 
-> :white_check_mark: Microsoft Certifications
+:white_check_mark: Microsoft Certifications
 
 ![](images/microsoft.png)
 
@@ -160,7 +160,7 @@ title: presentation
 
 ## Skills & Professional Development
 
-> :white_check_mark: Microsoft Certified: Azure Data Scientist Associate
+:white_check_mark: Microsoft Certified: Azure Data Scientist Associate
 
 ![Azure Data Scientist Associate](images/azureds.png)
 
@@ -168,7 +168,7 @@ title: presentation
 
 ## Skills & Professional Development
 
-> :white_check_mark: Microsoft Certified: Power BI Data Analyst Associate
+:white_check_mark: Microsoft Certified: Power BI Data Analyst Associate
 
 ![Power BI Data Analyst Associate](images/powerbi.png)
 
@@ -176,7 +176,7 @@ title: presentation
 
 ## Teaching Portfolio
 
-> :white_check_mark: Created a website to facet all the information about my teaching career journey [work in progress](/#portfolio/)
+:white_check_mark: Created a website to facet all the information about my teaching career journey [work in progress](/#portfolio/)
 
 ------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ title: presentation
 
 ## DST Supervision
 
-> :white_check_mark:  Teams meetings conducted at weekly and asyncronously.
+:white_check_mark:  Teams meetings conducted at weekly and asyncronously.
 
 ![](images/dst481-3.png)
 
@@ -194,7 +194,7 @@ title: presentation
 
 ## DST Supervision
 
-> :white_check_mark:  Communication with students checking their progress and providing feedback.
+:white_check_mark:  Communication with students checking their progress and providing feedback.
 
 ![](images/dst481-2.png)
 
@@ -214,7 +214,7 @@ title: presentation
 
 ## Moderation Management
 
-> :white_check_mark: Moderation of Examinations and Assessments
+:white_check_mark: Moderation of Examinations and Assessments
 
 ![Exams](images/moderateexam1.png)
 
@@ -222,7 +222,7 @@ title: presentation
 
 ## Moderation Management
 
-> :white_check_mark: Moderation of Students' Examination Scripts.
+:white_check_mark: Moderation of Students' Examination Scripts.
 
 ![Exams](images/moderateexam3.png)
 
@@ -230,7 +230,7 @@ title: presentation
 
 ## Deadline Adherance
 
-> :white_check_mark: Meeting deadlines (submitting marks a week after an assessment is written)
+:white_check_mark: Meeting deadlines (submitting marks a week after an assessment is written)
 
 :warning: Few hurdles as the assessments are done on AQ that delays the submission. (Final assessment was written on the 27th of March and the marks were in on the 4th of April - still within the acceptable time-frame)
 
@@ -250,7 +250,7 @@ title: presentation
 
 ## Subject File Updates
 
-> :white_check_mark: MLG382 files updated continuously
+:white_check_mark: MLG382 files updated continuously
 
 ![](images/updatefiles.png)
 
@@ -258,7 +258,7 @@ title: presentation
 
 ## Extra Curricular Engagement
 
-> :white_check_mark: Part-time classes.
+:white_check_mark: Part-time classes.
 
 ![](images/parttime23.png)
 
@@ -266,7 +266,7 @@ title: presentation
 
 ## Extra Curricular Engagement
 
-> :white_check_mark: Participating in BRICS Courses Standardization. 
+:white_check_mark: Participating in BRICS Courses Standardization. 
 
 ![](images/brics.png)
 
@@ -274,7 +274,7 @@ title: presentation
 
 ## Extra Curricular Engagement
 
-> :white_check_mark: Initiated a Power BI project to generate insights from data (*Work In Progress*).
+:white_check_mark: Initiated a Power BI project to generate insights from data (*Work In Progress*).
 
 ![](images/bcinsights.png)
 
