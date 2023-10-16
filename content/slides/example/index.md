@@ -94,7 +94,7 @@ title: presentation
 
 ## Graduant Success Rate
 
->:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. ![students graduating](images/grad23.png)
+>:arrow_forward: One of my students based in Kempton Park Campus graduated this year 2023. ![students graduating](images/grad23.png) {height=50%}
 
 ------------------------------------------------------------------------
 
