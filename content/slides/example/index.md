@@ -10,8 +10,6 @@ tags: []
 title: presentation
 ---
 
-- [PDF Export](https://revealjs.com/pdf-export/)
-
 ## Performance Review
 
 [Eddie Cheteni](/#about/)\| [Presentation 2023](https://wowchemy.com/docs/content/slides/)
