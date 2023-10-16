@@ -10,6 +10,8 @@ tags: []
 title: presentation
 ---
 
+- [PDF Export](https://revealjs.com/pdf-export/)
+
 ## Performance Review
 
 [Eddie Cheteni](/#about/)\| [Presentation 2023](https://wowchemy.com/docs/content/slides/)
@@ -22,6 +24,7 @@ title: presentation
     :arrow_right: Lecture preparation and innovation,
 
     :arrow_right: Student/lecturer evaluation.
+    
 {{< /spoiler >}}
 
 {{< spoiler text=":two: Continuous curricula development." >}}
@@ -203,6 +206,8 @@ title: presentation
 
 ## Overview
 
+:white_check_mark: In order to improve quality of assessments and results, below are suggested inputs towards cluster goals achievements.
+
 ![](images/quality23.png)
 
 ------------------------------------------------------------------------
@@ -227,7 +232,7 @@ title: presentation
 
 > :white_check_mark: Meeting deadlines (submitting marks a week after an assessment is written)
 
-> :warning: Few hurdles as the assessments are done on AQ that delays the submission. (Final assessment was written on the 27th of March and the marks were in on the 4th of April - still within the acceptable time-frame)
+:warning: Few hurdles as the assessments are done on AQ that delays the submission. (Final assessment was written on the 27th of March and the marks were in on the 4th of April - still within the acceptable time-frame)
 
 ![](images/deadlines23.png)
 
