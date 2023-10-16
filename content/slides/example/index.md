@@ -107,7 +107,7 @@ title: presentation
 
 ## Research of Future Curricula
 
-:arrow_forward: Project-based learning to improve ways of teaching machine learning.
+:arrow_forward: Project-based learning to improve ways of teaching [machine learning in R](https://business-science-practice.netlify.app/).
 
 ![Cookbook in R for ML](images/mlcookbook23.png) {height=75%}
 
@@ -186,7 +186,7 @@ title: presentation
 
 ## DST Supervision
 
-:white_check_mark:  Teams meetings conducted at weekly and asyncronously.
+:white_check_mark:  Teams meetings conducted at weekly and asynchronously.
 
 ![](images/dst481-3.png)
 
@@ -274,7 +274,7 @@ title: presentation
 
 ## Extra Curricular Engagement
 
-:white_check_mark: Initiated a Power BI project to generate insights from data (*Work In Progress*).
+:white_check_mark: Initiated a Power BI project to generate insights from data (![Work In Progress]()).
 
 ![](images/bcinsights.png)
 
@@ -289,7 +289,7 @@ title: presentation
 
 :two: Problem-solving goals
 :white_check_mark: to increase student engagement in learning hands-on,
-:white_check_mark: Blog posting and free virtual training workshops.
+:white_check_mark: [Blog posting](https://base-blog-posts.netlify.app/posts/sales-demand-forecasting/sales-demand-forecasting) and free virtual training workshops.
 
 :three: Reporting goals
 :white_check_mark: to prepare timely progress reports,
