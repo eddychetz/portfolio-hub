@@ -144,7 +144,7 @@ title: presentation
 
 ## Academic Development
 
-:white_medium_small_square: UNISA - PhD application in process.
+:white_check_mark: UNISA - PhD application in process.
 
 ![](images/unisaPhD.png)
 
