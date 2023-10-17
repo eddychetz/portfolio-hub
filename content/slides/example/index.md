@@ -125,15 +125,6 @@ title: presentation
 
 ------------------------------------------------------------------------
 
-## Faculty Staff Development 
-
-
-:white_check_mark: Assisted cluster chairs with better ways to disseminate info. to students.
-
-![](images/posting.png)
-
-------------------------------------------------------------------------
-
 ## Faculty Staff Development
 
 :white_check_mark: Assisted cluster chairs with quicker ways to clean results sheet from AssessmentQ.
