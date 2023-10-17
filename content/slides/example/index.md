@@ -289,7 +289,7 @@ title: presentation
 
 :two: Problem-solving goals
 :white_check_mark: To increase student engagement in learning hands-on,
-:white_check_mark: [Blog posting](https://base-blog-posts.netlify.app/posts/sales-demand-forecasting/sales-demand-forecasting) and free virtual training workshops.
+:white_check_mark: [Blog posting](https://base-blog-posts.netlify.app/posts/sales-demand-forecasting/sales-demand-forecasting) and [free virtual training](https://eddiecheteni.netlify.app/post/getting-started/) workshops.
 
 :three: Reporting goals
 :white_check_mark: To prepare timely progress reports,
