@@ -52,7 +52,7 @@ url_video: ""
     - :white_check_mark: Professional development
     - :white_check_mark: Skills development
   - :four: Increase faculty research and innovation
-    - :o2: AIT supervision
+    - :o2: DST supervision
   - :five: Faculty quality assurance
     - :arrow_forward: Moderation management
     - :arrow_forward: Deadline adherance
@@ -64,7 +64,7 @@ url_video: ""
  
 {{% callout warning %}}
 My **VISION** as a Data Science lecturer, my vision is centered on ... {{% /callout %}}
-:one: bringing up the best candidate for a **Business Intelligence (BI)** or **Software Engineering** role (*and many other related roles*), :two: raise the next generation of young data practitioners in the country and, :three: spread the possibilities of **data science** to as much people as possible.
+:one: bringing up the best candidate for a **Business Intelligence (BI)** or **Software Engineering** role (*and many other related roles*), :two: raise the next generation of young data practitioners in the country and, :three: spread the possibilities of **data science** to as many people as possible.
 
 
 {{% callout note %}}
@@ -106,7 +106,7 @@ My **COURSE DESIGN**; Ability to cover content to make students industrial-ready
 {{% /callout %}}
 :arrow_forward:  This section outlines the designing process of the modules that are part of the Data Science cluster. Applied Mathematics 1781/281 and Machine Learning 381-2 are the courses that will be used in this portfolio. Each module is given 16 hours per week of contact time with the subject matter expert (4-hour lesson with a 15 minute break after every 2 hours).
 
-:arrow_forward:  Initially, the Applied Mathematics 121 (now Applied Mathematics 281) module was designed in such a way that it transforms first year students into tertiary education environment and equipped them with basic understanding of advanced algebra, functions, vectors and matrices among other concepts. These topics connects the student with the system, enabling the understanding of foundation concepts to a Data Science career. This is a five-credit semester module.
+:arrow_forward:  Initially, the Applied Mathematics 121 (now Applied Mathematics 281) module was designed in such a way that it transforms first year students into tertiary education environment and equipped them with basic understanding of advanced algebra, functions, vectors and matrices among other concepts. These topics connects the student with the system, enabling the understanding of foundation concepts into a Data Science career. This is a five-credit semester module.
 
 :arrow_forward: Successful completion of this 2nd year module is based on the grading scale of 30% CA and 70% of a 2-hours proctored EXAM written at the end of quarter in which the module is being offered. This is normally 1st quarter as it is a pre-requisite to other modules such As Machine Learning 381. Outcomes of this module are covered within a period of 3 weeks. A student is required to submit 3 individual assignments, and to write 3 continuous assessment tests every last day of the week that is 2 formative assessments and one Summative assessment at the end. These test will be proctored in a customized, monitored online environment. This only leave the student with approx. 16 hours per week of contact time with the subject matter expert.
 
@@ -122,7 +122,9 @@ My **COURSE DESIGN**; Ability to cover content to make students industrial-ready
 
 :arrow_forward: My approach to teaching and learning is very unique and vary from one module to another. Applied Mathematics is a theoretical subject, students are required to understand the fundamental concepts of the subject and reflect its outcomes to some real-world application. In order to achieve this, outcomes are explained, demonstrated on a whiteboard to allow everyone to visualize and understand the concept. Students are given breathing space to digest concepts before assigning them tasks during the lecture session. Students are not given solutions to these activities to allow them to be fully engaged in the course study. My classes encourage active participation of students in order to fully understand the subject.
 
-:arrow_forward: When conducting the lecture in an online environment, students are required to give feedback privately when they are given tasks to do. This helps with control of the lesson to avoid disruptions in thinking to students that are slow a bit. Once the majority of the students provide feedback, one of the students is voluntarily selected to share the feedback with the entire class. This enables students to understand better when explained by their peers. This teaching approach is mostly employed in both online and face-to-face environments when teaching theoretical subjects such as Applied Mathematics 281 and Machine Learning 381.
+:arrow_forward: When conducting the lecture in an online environment, students are required to give feedback privately when they are given tasks to do. This helps with control of the lesson to avoid disruptions in thinking to students that are slow a bit. Once the majority of the students provide feedback, one of the students is voluntarily selected to share the feedback with the entire class. This enables students to understand better when explained by their peers. 
+
+This teaching approach is mostly employed in both online and face-to-face environments when teaching theoretical subjects such as Applied Mathematics 281 and Machine Learning 381.
 {{% callout warning %}}
 **STUDENTS' ASSESSMENTS**
 {{% /callout %}}
@@ -169,7 +171,7 @@ Assessing my own **Teaching Practices** to measure performance against set stand
 
 {{% callout note %}}
 **Career goals:**
-My main goal is to become a Lead Data Scientist certified with Microsoft as well as Data Science Masters holder in which all can be achieved within a five-year period. The main purpose is to bring positive impact to the new generation in the African region and the rest of the world.
+My main goal is to become a Microsoft Certified Trainer with Microsoft and obtain a Masters in Data Science in order to bring more impactful influence to the education community of South Africa and the rest of the world. I am considering furthering my PhD studies and the application is under process.
 {{% /callout %}}
 
 {{% callout note %}}
@@ -178,16 +180,20 @@ My main goal is to become a Lead Data Scientist certified with Microsoft as well
 
 :arrow_forward:  To obtain Master’s degree in Data Science.
 
-:arrow_forward:  To attend seminars and training related to Data Science with Microsoft and get certified.
+:arrow_forward:  To take an initiative in steering the Academic Research group.
+
+:arrow_forward:  To take up a Doctoral Degree.
 
 {{% callout note %}}
 **Expected outcomes are:** 
 {{% /callout %}}
 
-:arrow_forward:  Lead Data Scientist with NQF level 9
+:arrow_forward:  To graduate with MSc. in Data Science.
 
-:arrow_forward:  Data Scientist Associate certified with Microsoft
+:arrow_forward: To pass my AI Engineer Associate certification with Microsoft.
 
-:arrow_forward:  Publications in Machine Learning (time series, sales and demand forecasting, employee retention, )
+:arrow_forward:  To start a PhD program focusing on **Enhancing explainability in machine learning models for complex data structures**.
+
+:arrow_forward: To become an MCT and an effective lecturer with an industrial knowledge-based approach.
 
 :arrow_forward:  Data Science Lead and effective instructor in the Data Science community

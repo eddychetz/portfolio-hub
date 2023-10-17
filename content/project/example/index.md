@@ -9,7 +9,9 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
+  
 #slides: example
+
 summary: Used data science methodologies to define and formulate a real-world business problem, use data analysis tools to ingest a dataset, clean it and wrangle it, use data visualization skills to visualize the data and extract meaningful patterns to guide the modelling process, and use machine learning skills to build a predictive model to help a business function more efficiently.
 
 tags:
