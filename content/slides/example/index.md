@@ -10,7 +10,7 @@ tags: []
 title: presentation
 ---
 
-## Performance Review
+## Performance Evaluation
 
 [Eddie Cheteni](/#about/)\| [Presentation 2023](https://wowchemy.com/docs/content/slides/)
 
