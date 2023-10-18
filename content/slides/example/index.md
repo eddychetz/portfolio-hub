@@ -121,6 +121,14 @@ title: presentation
 
 ------------------------------------------------------------------------
 
+## Continuous Contribution to Module Development
+
+:arrow_forward: Provide students with valuable skill in machine learning through web application and that is an add-on to their resume.
+
+[Example of deployed Live Shiny App](https://ml-ai-hub-applications.shinyapps.io/bike-sales-app/)
+
+------------------------------------------------------------------------
+
 # :three: Faculty Staff Development
 
 ------------------------------------------------------------------------
