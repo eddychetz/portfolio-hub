@@ -27,7 +27,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: eddychetz@gmail.com
-  phone: +27 67 972 2872
+  phone: +27 69 251 0302
   # address:
   #   street: 4B Greyilla Avenue
   #   city: Kempton Park
